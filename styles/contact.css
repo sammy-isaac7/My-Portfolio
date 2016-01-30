@@ -1,0 +1,132 @@
+body{
+ background: linear-gradient(to left, white, black);
+}
+html {
+    font-family: "Lucida Sans", sans-serif;
+}
+.header{
+    margin: 65px;
+    text-decoration: underline;
+    font-size: 20px;
+    position: fixed;
+    font-family: winob;
+    color: #0000ff;
+}
+
+.header p{
+    text-align: center;
+    margin: 0 auto;
+}
+#logo{
+    width: 150px;
+    margin-top: 30px;
+    margin-right: 65px;
+    margin-bottom: 0;
+    height: 150px;
+    float: right;
+
+}
+h2{
+    margin-left: 65px;
+    color: white;
+
+}
+.title{
+    text-align: center;
+}
+.h3{
+    color: white;
+    margin-left: 65px;
+
+}
+.p1{
+  text-align: center;
+    color:white;
+    margin-left: -140px;
+}
+.p2{
+    color: white;
+ width: 50%;
+float: left;
+margin-left: 65px;
+margin-top: 100px;
+}
+
+.menu ul {
+    margin-top: 0px;
+    margin-left: 65px;
+    padding: 0;
+    position: fixed;
+}
+.menu li {
+    display: inline-block;
+    padding: 5px;
+    margin-bottom: 7px;
+    background-color :orange;
+    color: #ffffff;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    cursor: pointer;
+}
+.menu li:hover {
+    background-color: #0000ff;
+
+
+}
+
+#grad1{
+    height:100px;
+    width: 100%;
+    background: linear-gradient(to left, black, white); /* Standard syntax (must be last) */
+    }
+
+       form{
+        width: 700px;
+        margin-left: 65px;
+        color: white;
+        padding: 20px;
+    float: none;
+   
+    }
+    input{
+        width: 600px;
+        height: 25px;
+        margin: 10px;
+    }
+    textarea {
+      color: blue;
+    width: 100%;
+    height: 150px;
+    padding: 10px 10px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    font-size: 16px;
+    resize: none;
+     }
+    input[type=submit] {
+
+    background-color: orange;
+    width: 100px;
+    border: none;
+    color: white;
+    text-decoration: none;
+    margin: 6px 3px;
+    cursor: pointer;
+}
+  footer {
+        background: linear-gradient(to left, black, white);
+        width: 100%;
+        border-width; 
+        float: left;
+    }
+    .social-media{
+        text-align: center;
+    }
+    #logos{ 
+   margin-top: 25px;
+   margin-bottom: 40px;
+   margin-right:17px;
+   width: 42px;
+   height: 42px;
+   float: none;
+}

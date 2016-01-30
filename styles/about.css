@@ -1,0 +1,99 @@
+body{
+ background: linear-gradient(to left, white, black);
+}
+html {
+    font-family: "Lucida Sans", sans-serif;
+}
+.header{
+    margin: 65px;
+    text-decoration: underline;
+    font-size: 20px;
+    position: fixed;
+    font-family: winob;
+    color: #0000ff;
+}
+#logo{
+    width: 150px;
+    margin-top: 30px;
+    margin-right: 65px;
+    margin-bottom: 0;
+    height: 150px;
+    float: right;
+
+}
+
+.h2{
+    margin-left: 65px;
+    color: white;
+
+}
+.h3{
+    color: white;
+    margin-left: 65px;
+
+}
+p{
+    width: 400px;
+    margin-left: 65px;
+    margin-top: 65px;
+    color:white;
+    float: left;
+}
+.p2{
+    color: white;
+    width: 50%;
+float: left;
+margin-left: 65px;
+margin-top: 100px;
+}
+
+.menu ul {
+    margin-top: 0px;
+    margin-left: 65px;
+    padding: 0;
+    position: fixed;
+}
+.menu li {
+    display: inline-block;
+    padding: 5px;
+    margin-bottom: 7px;
+    background-color :orange;
+    color: #ffffff;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    cursor: pointer;
+}
+.menu li:hover {
+    background-color: #0000ff;
+
+
+}
+#img{
+    margin-top: 65px;
+        width: 450px;
+        height: 600px;
+        float: right;
+        }
+  
+
+#grad1{
+    height:100px;
+    width: 100%;
+    background: linear-gradient(to left, black, white); /* Standard syntax (must be last) */
+    }
+    footer {
+        background: linear-gradient(to left, black, white);
+        width: 100%;
+        border-width; 
+        float: left;
+    }
+    .social-media{
+        text-align: center;
+    }
+    #logos{ 
+   margin-top: 25px;
+   margin-bottom: 40px;
+   margin-right:17px;
+   width: 42px;
+   height: 42px;
+   float: none;
+}
