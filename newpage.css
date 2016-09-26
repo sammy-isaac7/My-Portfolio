@@ -1,0 +1,75 @@
+body { 
+  width: 100%;
+  margin: 0 auto;
+  color: navy;
+  font-family: 'Comfortaa', cursive;
+  background-color: #00001a;
+}
+
+html,body,h1,h2,h3,h4,h5 
+.sidenav a,
+.sidenav 
+h4 {font-weight:bold}
+#mySidenav {
+
+}
+span {
+  color: white;
+}
+h1 {
+	color: white;
+	font-family: 'Comfortaa', cursive;
+}
+.pic {
+	width: 200px;
+	height: 200px;
+}
+.picbig {
+     position: absolute;
+     width: 0px;
+     
+     z-index: 10;
+}
+.pc:hover + .picbig{
+	width: :400px;
+
+
+}
+.img{
+	height: 300px;
+margin: 10px;
+width: 300px;
+float: left;
+}
+.p2 {
+	width: 300px;
+	margin-top: -20px;
+	padding: 10px;
+	float: left;
+}
+  input{
+        width: 600px;
+        height: 25px;
+        margin: 10px;
+    }
+    
+ input[type=submit] {
+
+    background-color: orange;
+    width: 100px;
+    border: none;
+
+    text-decoration: none;
+    margin: 6px 3px;
+    cursor: pointer;
+}
+form {
+color: white;
+}
+#footer{
+
+    margin: 10px 10px 0 0px;
+    padding: 5px 10px 0 0px;
+    border-top: white solid 3px;
+  color: white;
+    }
