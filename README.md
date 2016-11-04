@@ -1,6 +1,7 @@
 # My Portfolio
  
   My Logo.
+  ![mylogo](https://cloud.githubusercontent.com/assets/16232889/20024250/cbeb8ad6-a2bb-11e6-85f9-8bcbae54b847.png)
   Navegation side bar.
   
 ## my Work
@@ -19,9 +20,9 @@
   . A logo For Cairo Night Hookah Lounge.
   . A Logo For Jeffrey Howard Personal Trainer.
   
-  ##About me : 
-   tells some about my exprince working with different softwears and studies.
+## About me : 
+   Tells some about my exprince working with different softwears and studies.
    
    
-  ##Contact Me :
+## Contact Me :
    A Form to contact me, With Sending Messages To My Personal Email.
