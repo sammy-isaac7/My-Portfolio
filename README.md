@@ -1,8 +1,8 @@
 # My Portfolio
  
   My Logo.
-  ![mylogo](https://cloud.githubusercontent.com/assets/16232889/20024250/cbeb8ad6-a2bb-11e6-85f9-8bcbae54b847.png)
-  Navegation side bar.
+ ![mylogo](https://cloud.githubusercontent.com/assets/16232889/20024364/89d5fba8-a2bc-11e6-9c51-f58290f69106.png)
+
   
 ## my Work
  1- web development 
