@@ -8,10 +8,10 @@
 * cause for dogs
 * Gemini project
   
-2- UI/UX project:
+###2- UI/UX project:
 * Lost and Found Mobile App Design.
    
-3- Graphic Design work:
+###3- Graphic Design work:
 displaying some designs been created using ( Photoshop, Indesign , and Illestrator).
 * Gemini project Logo.
 * Paw Lover Logo.
