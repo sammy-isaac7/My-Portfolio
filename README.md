@@ -1,9 +1,9 @@
- My Portfolio
+# My Portfolio
  
   My Logo.
   Navegation side bar.
   
- my Work
+## my Work
  1- web development 
   . cause for dogs.
   . Gemini project.
@@ -17,11 +17,11 @@
   . Paw Lover Logo.
   . Menu for Rose Cafe.
   . A logo For Cairo Night Hookah Lounge.
-  . A Logo For Jeffrey Haward Personal Trainer.
+  . A Logo For Jeffrey Howard Personal Trainer.
   
-  About me : 
+  ## About me : 
    tells some about my exprince working with different softwears and studies.
    
    
-   Contact Me :
+  ## Contact Me :
    A Form to contact me, With Sending Messages To My Personal Email.
