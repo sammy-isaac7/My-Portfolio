@@ -1,8 +1,7 @@
 # My Portfolio
  
   My Logo.
- ![mylogo](https://cloud.githubusercontent.com/assets/16232889/20024364/89d5fba8-a2bc-11e6-9c51-f58290f69106.png)
-
+![mylogo](https://cloud.githubusercontent.com/assets/16232889/20024582/e773c8f2-a2bd-11e6-8750-c9f7d8a5b9bf.png)
   
 ## my Work
  1- web development 
