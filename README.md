@@ -6,12 +6,13 @@
 ## my Work
 ###1- web development
 ```
-* cause for dogs
-* Gemini project
+. cause for dogs
+. Gemini project
  ``` 
 ###2- UI/UX project:
 * Lost and Found Mobile App Design.
-   
+ 
+ 
 ###3- Graphic Design work:
 displaying some designs been created using ( Photoshop, Indesign , and Illestrator).
 ```
